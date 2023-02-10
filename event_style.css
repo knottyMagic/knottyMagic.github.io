@@ -18,3 +18,7 @@ body {
     color:hotpink;
     font-weight: bold;
 }
+table{
+    font-size: large;
+    background-color: rgba(255, 255, 255, 0.8);
+}
