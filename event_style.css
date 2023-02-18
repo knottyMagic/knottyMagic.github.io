@@ -27,3 +27,14 @@ li {
     padding: 10px;
 }
 
+.first-column-summer{
+    padding: 10px;
+    color:red;
+    font-weight: bold;
+}
+
+.first-column-autumn{
+    padding: 10px;
+    color:rgb(124, 52, 1);
+    font-weight: bold;
+}
